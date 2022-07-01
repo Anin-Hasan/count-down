@@ -41,5 +41,6 @@ h1{
     }
     .small-container{
         height: 200px;
+        transform: translateY(-40px);
     }
 }
